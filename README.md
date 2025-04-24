@@ -17,13 +17,13 @@ https://servicodados.ibge.gov.br/api/v1/localidades/estados/RJ/distritos
 Primeiramente instale as dependencias usando
 
 ```bash
-**npm install**
+npm install
 ```
 
 casó queira pegar somente as cidades de um estado, modifique o arquivo **/src/mock/states.ts,** faça o build usando o comando:  ****
 
 ```bash
-**npm run build**
+npm run build
 ```
 
 e dê o start script usando o comando:
@@ -31,7 +31,7 @@ e dê o start script usando o comando:
  
 
 ```bash
-**npm run start**
+npm run start
 ```
 
 ou simplesmente use o comando **npm run dev** para pular o processo de build e start
